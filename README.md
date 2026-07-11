@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi 👋, I'm Anupam Kumar
 
-<!--
-**aroy67258/aroy67258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Development Intern @ NHPC | Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.Tech in Computer Science & Engineering  
+🏫 Madan Mohan Malaviya University of Technology (MMMUT), Gorakhpur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Web Developer
+- 🌱 Currently learning Advanced Backend Development
+- 🛠️ Building scalable web applications
+- 🤖 Interested in AI and Generative AI
+- 🎯 Goal: Become a Software Engineer and build impactful products
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** C, C++, Python, JavaScript, TypeScript, SQL
+- **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB, Supabase
+- **Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+
+## 🚀 Featured Projects
+
+### 🎫 Ticket Resolution System
+Node.js | Express.js | MySQL | EJS
+
+Enterprise ticket management system with Admin, Vendor and User modules.
+
+### 💊 New Maa Enterprises
+React | TypeScript | Supabase
+
+B2B pharmaceutical platform for retailers and wholesalers.
+
+### 🎓 EduMind
+AI Powered Personalized Learning Platform using NLP & RAG.
+
+---
+
+## 🌐 Portfolio
+
+👉 https://my-portfolio-website-rust-gamma.vercel.app/
+
+---
+
+## 📫 Connect with Me
+
+- 📧 anupamroy11@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/anupam-kumar-41655b296
+- 💻 GitHub: https://github.com/aroy67258
